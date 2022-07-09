@@ -8,7 +8,7 @@ image:
   repository: 315524462941.dkr.ecr.us-east-1.amazonaws.com/testimgupdater
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 1
+  tag: 2
 
 imagePullSecrets:
  - name: "creds"
