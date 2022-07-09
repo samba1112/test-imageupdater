@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 315524462941.dkr.ecr.us-east-1.amazonaws.com/testimgupdater
+  repository: testimgupdater
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 1
