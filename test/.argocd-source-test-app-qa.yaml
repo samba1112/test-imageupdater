@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: docker.io/satyam0786/argocd
+    forcestring: true
+  - name: image.tag
+    value: "6"
+    forcestring: true
