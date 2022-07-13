@@ -4,5 +4,5 @@ helm:
     value: 315524462941.dkr.ecr.us-east-1.amazonaws.com/testimgupdater
     forcestring: true
   - name: image.tag
-    value: "11"
+    value: "12"
     forcestring: true
